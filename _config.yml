@@ -96,10 +96,12 @@ service-worker: true
 
 
 
-# 友情链接，请尽量不要删除，谢谢！
 friends: [
     {
         title: "知乎：是一个球",
         href: "https://www.zhihu.com/people/chen-yue-92-82"
+    },{
+        title: "hxd的博客",
+        href: "https://zaynprocess.com/"
     }
 ]
